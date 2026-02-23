@@ -1,3 +1,5 @@
+[![CI](https://github.com/HypeMonk/git-security-fix/actions/workflows/ci.yml/badge.svg)](https://github.com/HypeMonk/git-security-fix/actions/workflows/ci.yml)
+
 # q-git-revert-env
 
 A Flask-based REST API service.
